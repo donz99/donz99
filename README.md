@@ -63,7 +63,9 @@
       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donz99&layout=compact&theme=vision-friendly-dark" />
       
     
+  </td>
   </tr>
+  </table>
 
 
 ###
