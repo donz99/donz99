@@ -4,8 +4,6 @@
 
 # Hi, I'm Denis :wave:
 
-<h1 align="center">Время ничего не значит, если ничего небыло достигнуто</h1>
-
 ###
 
 <div align="center">
