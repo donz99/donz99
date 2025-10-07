@@ -59,7 +59,7 @@
 </div>
 
 ###
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India. You can ask me anything (within reason). I am looking forward to absorb knowledge,gain experience , collaborate and build amazing products for the world!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donz99&label=Profile%20views&color=0e75b6&style=flat" alt="donz99" /> </p>
 
