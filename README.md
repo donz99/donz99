@@ -14,10 +14,6 @@
   </a>
 </div>
 
-<p>
-  📣 Besoin de me contacter ? Retrouvez-moi ici :<br/>
-  
-</p>
 
 ###
 
@@ -33,7 +29,7 @@
 
 <h3 align="left">Currently learning Golang. You can ask me anything (within reason). I am looking forward to absorb knowledge,gain experience , collaborate and build amazing products for the world!
   
-  Я обучаюсь на Java разработчика. Мой путь в it начался со Школы, где я начал изучать Pascal и мне это нравилось. Так получилось, что после школы мои пути с программированием разошлись, так как я поступил на инжнера в Белорусский Государственный Технологический Университет. В июле 2022 года в учебном центре IT ШАГ начачал изучать язык Java, но спустя несколько месяцев понял, что для изучения, мне нужно только время, ПК и интернет. В настоящий момент я продолжаю обучаться посредством роликов на ютубе, теории и задач на JavaRush, а так же решением задач на codewars и leetcode<br><br>- 🔭 Всесторонне изуча. Java<br></h3>
+  Я обучаюсь на Java разработчика. Мой путь в it начался со Школы, где я начал изучать Pascal и мне это нравилось. Так получилось, что после школы мои пути с программированием разошлись, так как я поступил на инжнера в Белорусский Государственный Технологический Университет. В июле 2022 года в учебном центре IT ШАГ начачал изучать язык Java, но спустя несколько месяцев понял, что для изучения, мне нужно только время, ПК и интернет. В настоящий момент я продолжаю обучаться посредством роликов на ютубе, теории и задач на JavaRush, а так же решением задач на codewars и leetcode</h3>
 
 ###
 
@@ -41,29 +37,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="webpack logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-</div>
-
-###
 <h3 align="center">A passionate frontend developer from India. You can ask me anything (within reason). I am looking forward to absorb knowledge,gain experience , collaborate and build amazing products for the world!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donz99&label=Profile%20views&color=0e75b6&style=flat" alt="donz99" /> </p>
