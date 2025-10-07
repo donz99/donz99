@@ -28,7 +28,7 @@
 
 ###
 
-<h3 align="left">You can ask me anything (within reason). I am looking forward to absorb knowledge,gain experience , collaborate and build amazing products for the world!</h3>
+<h3 align="left">You can ask me anything (within reason). I am looking forward to absorb knowledge, gain experience, collaborate and build amazing products for the world!</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
