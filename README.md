@@ -67,11 +67,7 @@
 
 ![codewars](https://www.codewars.com/users/donz99/badges/large)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=donz99&show_icons=true&locale=en&layout=compact" alt="donz99" /></p>//
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=donz99&show_icons=true&locale=en" alt="donz99" /></p>//
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=donz99&" alt="donz99" /></p>//
 
 ###
 
