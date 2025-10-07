@@ -67,21 +67,21 @@
 
 ![codewars](https://www.codewars.com/users/donz99/badges/large)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=donz99&show_icons=true&locale=en&layout=compact" alt="donz99" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=donz99&show_icons=true&locale=en&layout=compact" alt="donz99" /></p>//
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=donz99&show_icons=true&locale=en" alt="donz99" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=donz99&show_icons=true&locale=en" alt="donz99" /></p>//
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=donz99&" alt="donz99" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=donz99&" alt="donz99" /></p>//
 
 ###
 
 <table>
   <tr>
     <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=FilimonovAlexey&theme=dark&background=000000" alt="webDev's Github stats" />
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=donz99y&theme=dark&background=000000" alt="webDev's Github stats" />
     </td>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilimonovAlexey&layout=compact&theme=vision-friendly-dark" />
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donz99&layout=compact&theme=vision-friendly-dark" />
       
     </td>
   </tr>
