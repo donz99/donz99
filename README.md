@@ -28,19 +28,7 @@
 
 ###
 
-<p align="left">Я обучаюсь на Java разработчик. Мой путь в it начался со Школы, где я начал изучать Pascal и мне это нравилось. Так получилось, что после школы мои пути с программированием разошлись, так как я поступил на инжнера в Белорусский Государственный Технологический Университет. В июле 2022 года в учебном центре IT ШАГ начачал изучать язык Java, но спустя несколько месяцев понял, что для изучения, мне нужно только время, ПК и интернет. В настоящий момент я продолжаю обучаться посредством роликов на ютубе, теории и задач на JavaRush, а так же решением задач на codewars и leetcode<br><br>- 🔭 Всесторонне изуча. Java<br></p>
-
-###
-<h3 align="left">📕 Мои статьи</h3>
-
-- [Пишем Telegram-бота для подготовки к собеседованию на Frontend-разработчика](https://proglib.io/p/pishem-telegram-bota-dlya-podgotovki-k-sobesedovaniyu-na-frontend-razrabotchika-2024-05-29)
-- [Пишем Telegram-бота для фильтрации нецензурной лексики в чате](https://proglib.io/p/pishem-telegram-bota-dlya-filtracii-necenzurnoy-leksiki-v-chate-2024-07-15)
-
-###
-
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
+<p align="left">Я обучаюсь на Java разработчика. Мой путь в it начался со Школы, где я начал изучать Pascal и мне это нравилось. Так получилось, что после школы мои пути с программированием разошлись, так как я поступил на инжнера в Белорусский Государственный Технологический Университет. В июле 2022 года в учебном центре IT ШАГ начачал изучать язык Java, но спустя несколько месяцев понял, что для изучения, мне нужно только время, ПК и интернет. В настоящий момент я продолжаю обучаться посредством роликов на ютубе, теории и задач на JavaRush, а так же решением задач на codewars и leetcode<br><br>- 🔭 Всесторонне изуча. Java<br></p>
 
 ###
 
@@ -71,17 +59,6 @@
 </div>
 
 ###
-
-<h3 align="left">🔥   Моя статистика :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=filimonovalexey&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donz99&label=Profile%20views&color=0e75b6&style=flat" alt="donz99" /> </p>
@@ -105,5 +82,18 @@
   <img src="https://github-readme-stats.vercel.app/api?username=filimonovalexey&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=filimonovalexey&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+###
+
+<h3 align="left">🔥   Моя статистика :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=filimonovalexey&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+
 
 ###
