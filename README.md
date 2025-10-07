@@ -2,7 +2,7 @@
 
 ###
 
-# Hi, I'm Zach :wave:
+# Hi, I'm Denis :wave:
 
 <h1 align="center">Время ничего не значит, если ничего небыло достигнуто</h1>
 
