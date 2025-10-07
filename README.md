@@ -8,7 +8,7 @@
   <a href="https://t.me/DenisKk9" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="telegram logo"  />
   </a>
-  <a align="right"> <img src="https://komarev.com/ghpvc/?username=donz99&label=Profile%20views&color=0e75b6&style=flat" alt="donz99" /> </a>
+  <p align="right"> <img src="https://komarev.com/ghpvc/?username=donz99&label=Profile%20views&color=0e75b6&style=flat" alt="donz99" /> </p>
 </div>
 
 
