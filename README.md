@@ -1,7 +1,3 @@
-<br clear="both">
-
-###
-
 # Hi, I'm Denis :wave:
 
 ###
