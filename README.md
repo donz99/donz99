@@ -38,7 +38,7 @@
 
 - Знание Java 11+ (Core, Collections, Concurrency);
 - Понимание принципов ООП, SOLID и паттернов проектирования;
-- Git
+- Знание и пользование Git и GitHub.
 
 
 
