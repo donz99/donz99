@@ -178,6 +178,16 @@
 
 ![codewars](https://www.codewars.com/users/donz99/badges/large)
 
+<!--![LeetCode](https://leetcode-stats.vercel.app/api/sig?user=donz99)
+
+![LeetCode](https://leetcode-badge.glitch.me/user/donz99)
+
+![LeetCode](https://leetcode-badge-sage.vercel.app/badge/donz99?theme={light|dark|neutral}) -->
+
+
+
+
+
 ### ⚙️ GitHub статистика:
 
 <table>
