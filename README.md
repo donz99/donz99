@@ -168,7 +168,7 @@
 | itstep.by/ Курс Java разработка                                 | 06/2022 - 11/2022 |
 | javarush.com/ Курс Java Syntax PRO                              | 06/2025 - 09/2025 |
 | java-marathon.tilda.ws/ Марафон по решению задач на Java        | 09/2025 - 10/2025 |
-| javarush.com/ Курс Java Core                                    | 09/2025 - хх/2025 |
+| javarush.com/ Курс Java Core                                    | 09/2025 - 12/2025 |
 | swiftbook.org/courses/415/ Курс продвинутая Java                | 09/2025 - xx/2025 |
 
 
